@@ -27,8 +27,8 @@ In the succeeding articles, the following new ideas in the creation of a Living 
 8. Autognorics:The Science of Engineered Life Forms (SELFS)
 
 
-⚡ Keywords: 
-- The etymology, originator, founded, history, semantics, onomatology, eponym:
+⚡ Originemology: 
+- (etymology, originator, history, semantics, onomatology, eponym)
 - eaftos = self
 - gnosei = knowledge
 - aftognosia = self-knowledge
@@ -39,3 +39,6 @@ In the succeeding articles, the following new ideas in the creation of a Living 
 - (Lawsin,1988)
 
 ![autognorics](gnorics.jpg)
+
+
+> "The last human on earth will no longer be human." ~ Joey Lawsin
