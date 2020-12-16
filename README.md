@@ -1,5 +1,7 @@
-# AUTOGNORICS: The Science of Engineered Life Forms
-WELCOME TO THE WORLD OF ANEURAL AUTOGNORICS 👋
+# AUTOGNORICS: 
+## The Science of Engineered Life Forms
+
+WELCOME TO THE WORLD OF ANEURAL AUTOGNORICS
 
 Autognorics is the science of creating engineered life forms, things, machines, or systems. It was conceptualized by revisionist Lawsin in 1988 who wanted to shape up the framework of artificial intelligence and machine learning by introducing a new paradigm known as Aneural Autognorics. In this new paragon of creating synthetic life-forms, called Gnorics, IOs and EIs are the fundamentals units. 
 
