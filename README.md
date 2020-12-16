@@ -29,13 +29,13 @@ In the succeeding articles, the following new ideas in the creation of a Living 
 
 ⚡ Keywords: 
 - The etymology, originator, founded, history, semantics, onomatology, eponym:
-*eaftos = self
-*gnosei = knowledge
-*aftognosia = self-knowledge
-*zois = life-forms
-*gnorics = self-knowledge life-forms
-*ELFS = engineered life-forms systems
-*Autognorics = the science of creating living machines
-*(Lawsin,1988)
+- eaftos = self
+- gnosei = knowledge
+- aftognosia = self-knowledge
+- zois = life-forms
+- gnorics = self-knowledge life-forms
+- ELFS = engineered life-forms systems
+- Autognorics = the science of creating living machines
+- (Lawsin,1988)
 
 ![autognorics](gnorics.jpg)
