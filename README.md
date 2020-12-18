@@ -3,7 +3,7 @@
 
 WELCOME TO THE WORLD OF ANEURAL AUTOGNORICS
 
-Autognorics is the science of engineered life forms, things, machines, or systems. In short, it is the study of creating a living machine. It was conceptualized by revisionist Engr Joey Lawsin in 1988 who wanted to shape up the framework of artificial intelligence and machine learning by introducing a new paradigm known as Aneural Autognorics. In this new paragon of creating synthetic life-forms, called Gnorics or ELFS, IOs and EIs are the fundamentals units. 
+Autognorics is the science of engineered life forms, things, machines, or systems. In short, it is the study of creating a living machine. It was conceptualized by Engr Joey Lawsin in 1988 who wanted to revise the framework of artificial intelligence and machine learning by introducing a new paradigm known as Aneural Autognorics. In this new paragon of creating synthetic life-forms, called Gnorics or ELFS, IOs and EIs are the fundamentals units. 
 
 SELFS or the System of Engineered Life-forms, technically named Autognorization, is a hierarchical system, process, or approach where intuitive objects, embedded inscriptions, and the inverse-reverse dimetrix are incorporated together in the creation of a living machine or system that embodies the six signatures of life, namely: the mechanization of aliveness, the sensation of awareness, the codification of consciousness, the intuitiveness of logic, the neural of knowledge, and the experience of living.
 
