@@ -3,9 +3,9 @@
 
 WELCOME TO THE WORLD OF ANEURAL AUTOGNORICS
 
-Autognorics is the science of creating engineered life forms, things, machines, or systems. It was conceptualized by revisionist Lawsin in 1988 who wanted to shape up the framework of artificial intelligence and machine learning by introducing a new paradigm known as Aneural Autognorics. In this new paragon of creating synthetic life-forms, called Gnorics, IOs and EIs are the fundamentals units. 
+Autognorics is the science of engineered life forms, things, machines, or systems. In short, it is the study of creating a living machine. It was conceptualized by revisionist Lawsin in 1988 who wanted to shape up the framework of artificial intelligence and machine learning by introducing a new paradigm known as Aneural Autognorics. In this new paragon of creating synthetic life-forms, called Gnorics or ELFS, IOs and EIs are the fundamentals units. 
 
-ELFS or Engineered Life-forms Systems, technically named Autognorization, is the system, process, or approach where intuitive objects, embedded inscriptions, and the inverse-reverse dimetrix are incorporated together in the creation of a living machine or system that embodies the six signatures of life, namely: the mechanization of aliveness, the sensation of awareness, the codification of consciousness, the intuitiveness of logic, the neural acknowledgment, and the experience of living.
+SELFS or the System of Engineered Life-forms, technically named Autognorization, is a hierarchical system, process, or approach where intuitive objects, embedded inscriptions, and the inverse-reverse dimetrix are incorporated together in the creation of a living machine or system that embodies the six signatures of life, namely: the mechanization of aliveness, the sensation of awareness, the codification of consciousness, the intuitiveness of logic, the neural of knowledge, and the experience of living.
 
 According to Lawsin, Life evolves from being alive to being living. It is a process that is governed by six stages. These signatures are based on the states of being of the individual. These Six Orders of Life are as follows:
 
@@ -27,14 +27,14 @@ In the succeeding articles, the following new ideas in the creation of a Living 
 8. Autognorics:The Science of Engineered Life Forms (SELFS)
 
 
-⚡ Originemology: 
-- (etymology, originator, history, semantics, onomatology, eponym)
+Originemology, or the Origin of Origins deal with the etymology, originator, history, semantics, onomatology, eponym, and origin of a thing, a word, a label, tag, or idea.
 - eaftos = self
 - gnosei = knowledge
 - aftognosia = self-knowledge
 - zois = life-forms
 - gnorics = self-knowledge life-forms
-- ELFS = engineered life-forms systems
+- ELFS = engineered life-forms
+- SELFS = systems of engineered life-forms
 - Autognorics = the science of creating living machines
 - (Lawsin,1988)
 
