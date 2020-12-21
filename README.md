@@ -3,7 +3,7 @@
 
 WELCOME TO THE WORLD OF ANEURAL AUTOGNORICS
 
-Autognorics is the science of engineered life forms, things, machines, or systems. In short, it is the study of creating a living machine. It was conceptualized by Engr Joey Lawsin in 1988 who wanted to revise the framework of artificial intelligence and machine learning by introducing a new paradigm known as Theory of M.I.N.D. or Autognorics' Linear Aneural Wise Sytems. In this new paragon of creating synthetic life-forms, called Gnorics or ELFS, IOs and EIs are its fundamentals units. 
+Autognorics is the science of engineered life forms, things, machines, or systems. In short, it is the study of creating a living machine. It was conceptualized by Engr Joey Lawsin in 1988 who wanted to revise the framework of artificial intelligence and machine learning by introducing a new paradigm known as Theory of M.I.N.D. or Autognorics' Aneural Wise Sytems. In this new paragon of creating synthetic life-forms, called Gnorics or ELFS, IOs and EIs are its fundamentals units. 
 
 SELFS or the System of Engineered Life-forms, technically named Autognorization, is a hierarchical system, process, or approach where intuitive objects, embedded inscriptions, and the inverse-reverse dimetrix are incorporated together in the creation of a living machine or system that embodies the six signatures of life, namely: the mechanization of aliveness, the sensation of awareness, the codification of consciousness, the intuitiveness of logic, the neural of knowledge, and the experience of living.
 
@@ -23,7 +23,7 @@ In the succeeding articles, the following new ideas in the creation of a Living 
 4. [The Neural Selfness of a Machine](https://autognorics.github.io/Neural_Selfness) 
 5. [Intuitive Objects and Embedded Inscriptions](https://autognorics.github.io/Intuitive_Objects/)
 6. [A Brain without the Brain Paradigm](https://autognorics.github.io/Aneural-Intuitive-Systems/)
-7. [The Four Marks of a Living Machine](https://autognorics.github.io/Engineered_Life_Forms/)
+7. [The Making of a Living Machine](https://autognorics.github.io/Engineered_Life_Forms/)
 8. [Autognorics:The Science of Engineered Life Forms](https://autognorics.github.io/Autognorics)
 
 The new concept Autognorics was uncovered from the study on Orignemology.
