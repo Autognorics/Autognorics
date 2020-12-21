@@ -6,7 +6,7 @@ WELCOME TO THE WORLD OF ANEURAL AUTOGNORICS
 The Theory of M.I.N.D. :
 1.Mechanical Emergence of Aliveness.
 
-
+[autognorics](gnorics.jpg)
 2. Sensoric Awareness.
 
 
@@ -14,7 +14,7 @@ The Theory of M.I.N.D. :
 
 
 4. Algorithmic Intuitiveness.
-
+<div class="video-container"><iframe style="width: 500px; height: 281px;" src="//www.youtube.com/embed/2NNFL4SBlt4" frameborder="0" allowfullscreen=""></iframe></div>
 
 5. Neural Selfness.
 
