@@ -56,10 +56,12 @@ The five cardinal collaborating principles that lay the foundations of Originemo
 5. Inscriptions by Design
 
 The new study is also instrumental in shedding new insights into the five major ancient questions:
-a. Who or what created the universe?
-b. How all creation is created?
-c. Where did we come from?
-d. Why are we here?
+1. Who or what created the universe?
+2. How all creation is created?
+3. Where did we come from?
+4. Why are we here?
+
+Fragments of the text here were extracted from the book Originemology. Some ideas emerged in an early version of the manuscript on Creation by Laws. The general view discussed in this hub was covered during the various exploratory experiments conducted in the Biotronics Project (Lawsin,1988).
 
 ### Keywords:
 -    eaftos = self
@@ -70,8 +72,6 @@ d. Why are we here?
 -    Autognorics = the science of creating living machines
 -    SELFS = Systems of Engineered Life-Forms
 -    ELFS = engineered life-forms
-
-Fragments of the text here were extracted from the book Originemology. Some ideas emerged in an early version of the manuscript on Creation by Laws. The general view discussed in this hub was covered during the various exploratory experiments conducted in the Biotronics Project (Lawsin,1988).
 
 ![autognorics](gnorics.jpg)
 
