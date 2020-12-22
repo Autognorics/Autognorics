@@ -70,6 +70,8 @@ On this article, fragments of text were extracted from the book Originemology. S
 -    zois = life-forms
 -    Gnorics = self-knowledge life-forms
 -    Autognorics = the science of creating living machines
+-    Homognorics = living machines in human forms
+-    Biognorics = living machines that look like animals, plants, insects, microbes, fungus, and cells.
 -    SELFS = Systems of Engineered Life-Forms
 -    ELFS = engineered life-forms
 
