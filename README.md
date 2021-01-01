@@ -1,9 +1,10 @@
+![autognorics](GET.jpg)
 # AUTOGNORICS: 
 ## The Science of Engineered Life Forms
 
 WELCOME TO THE WORLD OF ANEURAL AUTOGNORICS
 
-Autognorics is the science of engineered life forms, things, machines, or systems. In short, it is the study of creating a living machine. It was conceptualized by Engr Joey Lawsin in 1988 who wanted to reshape the framework of artificial intelligence and machine learning by introducing a new paradigm known as Theory of M.I.N.D. or Autognorics' Aneural Wise Sytems. In this new paragon, Materialization of information and Insrirption by Design are the essential foundations in the creation of these synthetic life-forms called ELFS. These engineered-life-forms (elfs) are classified as gnorics, homognorics, biognorics, and zoikrons.
+Autognorics is the science of engineered life forms, things, materials, machines, or systems. In short, it is the study of creating a living machine. It was conceptualized by Engr Joey Lawsin in 1988 who wanted to reshape the framework of artificial intelligence and machine learning by introducing a new paradigm known as Theory of M.I.N.D. or The Generated Emergence Theory. In this new paragon, Materialization of information and Inscription by Design are the essential foundations in the creation of these synthetic life-forms called ELFS. These engineered-life-forms (elfs) are classified as gnorics, homognorics, biognorics, and zoikrons.
 
 SELFS or the System of Engineered Life-forms, technically called Autognorization, is a hierarchical system, process, or approach where intuitive objects, embedded inscriptions, and inverse-reverse dimetrix are incorporated together in the creation of a living machine or system that embodies the six signatures of life, namely: the mechanization of aliveness, the sensation of awareness, the codification of consciousness, the intuitiveness of logic, the selfness of knowledge, and the experience of lifeness.
 
