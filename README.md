@@ -1,4 +1,4 @@
-![autognorics](GET.jpg)
+![autognorics](gnorics.jpg)
 # AUTOGNORICS: 
 ## The Science of Engineered Life Forms
 
@@ -76,7 +76,7 @@ On this article, fragments of text were extracted from the book Originemology. S
 -    SELFS = Systems of Engineered Life-Forms
 -    ELFS = engineered life-forms
 
-![autognorics](gnorics.jpg)
+![autognorics](GET.jpg)
 
 
 > "The last human on earth will no longer be human." ~ Joey Lawsin
