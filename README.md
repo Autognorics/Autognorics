@@ -19,7 +19,7 @@ According to Lawsin, Life evolves from being alive to being living. Life is a ev
 
 In the succeeding articles, the following new concepts in the creation of a Living Machine are examined:
 1. [The Sensoric Awareness of a Machine](https://autognorics.github.io/Sensoric_Awareness/)
-2. [The Aneural Consciousness of a Machine](https://autognorics.github.io/Aneural_Consciousness/)
+2. [The Associative Consciousness of a Machine](https://autognorics.github.io/Aneural_Consciousness/)
 3. [The Algorithmic Intuitiveness of a Machine](https://autognorics.github.io/Algorithmic_Intuitiveness/)
 4. [The Aneural Inlearness of a Machine](https://autognorics.github.io/Neural-Selfness/) 
 5. [Intuitive Objects and Embedded Inscriptions](https://autognorics.github.io/Intuitive_Objects/)
