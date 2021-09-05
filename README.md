@@ -14,14 +14,14 @@ According to Lawsin, Life evolves from being alive to being living. Life is a ev
 2. Awareness = is the ability to send and receive signals using intuitive sensors without the need for neural reasoning.
 3. Consciousness = is the ability to match things with things without the need for neural reasoning.
 4. Intutiveness = is the ability to choose this or that without the need for neural reasoning.
-5. Selfness = is the ability to realize oneself or self-knowledge.
+5. Inlearness = is the ability to acquire and use information.
 6. Lifeness = is the ability to experience life or to live.
 
 In the succeeding articles, the following new concepts in the creation of a Living Machine are examined:
 1. [The Sensoric Awareness of a Machine](https://autognorics.github.io/Sensoric_Awareness/)
 2. [The Aneural Consciousness of a Machine](https://autognorics.github.io/Aneural_Consciousness/)
 3. [The Algorithmic Intuitiveness of a Machine](https://autognorics.github.io/Algorithmic_Intuitiveness/)
-4. [The Neural Selfness of a Machine](https://autognorics.github.io/Neural-Selfness/) 
+4. [The Aneural Inlearness of a Machine](https://autognorics.github.io/Neural-Selfness/) 
 5. [Intuitive Objects and Embedded Inscriptions](https://autognorics.github.io/Intuitive_Objects/)
 6. [A Brain without the Brain Paradigm](https://autognorics.github.io/Aneural-Intuitive-Systems/)
 7. [The Making of a Living Machine](https://autognorics.github.io/Engineered_Life_Forms/)
