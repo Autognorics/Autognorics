@@ -22,10 +22,10 @@ In the succeeding articles, the following new concepts in the creation of a Livi
 1. [The Sensoric Awareness of a Machine](https://autognorics.github.io/Sensoric_Awareness/)
 2. [The Associative Consciousness of a Machine](https://autognorics.github.io/Aneural_Consciousness/)
 3. [The Algorithmic Intuitiveness of a Machine](https://autognorics.github.io/Algorithmic_Intuitiveness/)
-4. [The Aneural Inlearness of a Machine](https://autognorics.github.io/Neural-Selfness/) 
+4. [The Aneural Intelligence of a Machine](https://autognorics.github.io/Neural-Selfness/) 
 5. [Intuitive Objects and Embedded Inscriptions](https://autognorics.github.io/Intuitive_Objects/)
 6. [A Brain without the Brain Paradigm](https://autognorics.github.io/Aneural-Intuitive-Systems/)
-7. [The Making of a Living Machine](https://autognorics.github.io/Engineered_Life_Forms/)
+7. [The Making of a Living Conscious Machine](https://autognorics.github.io/Engineered_Life_Forms/)
 8. [Autognorics:The Science of Engineered Life Forms](https://autognorics.github.io/Autognorics/)
 
 The new concept Autognorics was uncovered from the study on Orignemology.
