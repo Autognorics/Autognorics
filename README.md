@@ -2,13 +2,13 @@
 # AUTOGNORICS: 
 ## The Science of Engineered Life Forms
 
-WELCOME TO THE WORLD OF ANEURAL AUTOGNORICS
+WELCOME TO THE WORLD OF ANEURAL INTUITIVE MACHINES.
 
-Autognorics is the science of engineered life forms, things, materials, machines, or systems. In short, it is the study of creating a living machine. It was conceptualized by Engr Joey Lawsin in 1988 who wanted to reshape the framework of artificial intelligence and machine learning by introducing a new paradigm known as Theory of M.I.N.D. or The Generated Emergence Theory. In this new paragon, Materialization of information and Inscription by Design are the essential foundations in the creation of these synthetic life-forms called ELFS. These engineered-life-forms (elfs) are classified as gnorics, homognorics, biognorics, and zoikrons.
+Autognorics is the science of engineered life forms, things, materials, machines, or systems. In short, it is the study of creating a living Intuitive Machine (IM). It was conceptualized by Engr Joey Lawsin in 1988 who wanted to reshape the framework of artificial intelligence and machine learning by introducing a novel cognitive concept known as The Brein Theory or A Brain without The Brain paradigm shift. In this new paragon, Information Codexation and Inscription by Design are the essential foundations in the creation of these synthetic life-forms called ELFS. These engineered-life-forms (elfs) are classified as gnorics, homognorics, biognorics, and zoikrons.
 
 SELFS or the System of Engineered Life-forms, technically called Autognorization, is a hierarchical system, process, or approach where intuitive objects, embedded inscriptions, and inverse-reverse dimetrix are incorporated together in the creation of a living machine or system that embodies the six signatures of life, namely: the mechanization of aliveness, the sensation of awareness, the codification of consciousness, the intuitiveness of logic, the selfness of knowledge, and the experience of lifeness.
 
-According to Lawsin, Life evolves from being alive to being living. Life is a evolutionary process that is governed by six stages. These signatures are based on the states of being of the individual. These six Sequential Orders of Life are as follows:
+According to Lawsin, Life evolves from being alive to being living. Life is a evolutionary process that is governed by seven stages. These life signatures are based on the states of being of the individual. These seven sequential orders of Life referred as the Laws of Inscription are as follows:
 
 1. Aliveness = is the ability to consume energy without the need for neural reasoning.
 2. Awareness = is the ability to send and receive signals using intuitive sensors without the need for neural reasoning.
@@ -16,6 +16,7 @@ According to Lawsin, Life evolves from being alive to being living. Life is a ev
 4. Intutiveness = is the ability to choose this or that without the need for neural reasoning.
 5. Inlearness = is the ability to acquire and use information.
 6. Lifeness = is the ability to experience life or to live.
+7. Selfness = is the ability to recognize oneself.
 
 In the succeeding articles, the following new concepts in the creation of a Living Machine are examined:
 1. [The Sensoric Awareness of a Machine](https://autognorics.github.io/Sensoric_Awareness/)
