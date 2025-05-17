@@ -6,9 +6,9 @@ WELCOME TO THE WORLD OF ANEURAL INTUITIVE MACHINES.
 
 Autognorics is the science of creating engineered life forms, machines, or systems that are alive, living, and with life. In short, it is the study of creating a living Intuitive Machine (IM) that can see, smell, taste, hear, speak, feel, think, breed, fly, swim, and die too. It was conceptualized by Engr Joey Lawsin in 1988 who wanted to reshape the framework of artificial intelligence and machine learning by introducing a novel cognitive concept known as The Brein Theory or A Brain without The Brain paradigm shift. In this new paragon, Inscription by Design and Generated Interim Emergence are the essential foundations in the creation of these synthetic life-forms called ELFS. These engineered-life-forms (elfs) are classified as gnorics, homognorics, biognorics, and zoikrons.
 
-SELFS or the System of Engineered Life-forms, technically called Autognorization, is a hierarchical system, process, or approach where binary inherent network systems (BINS), intuitive aneural networks(IAN), intuitive machines(IM), embedded inscriptions(EI), intuitive object(IO)s, generated interim emergence (GENIE), brein, gnomi, gnos, interims, and inscription by design(ID) are incorporated together in the creation of a living machine or system that embodies the seven signatures of life, namely: the mechanization of aliveness, the sensation of awareness, the codification of consciousness, the intuitiveness of logic, the inlearness of information, symbiosis of living, and the emergence of self.
+SELFS or the System of Engineered Life-forms, technically called Autognorization, is a hierarchical system, process, or approach where binary inherent network systems (BINS), intuitive aneural networks(IAN), intuitive machines(IM), embedded inscriptions(EI), intuitive object(IO)s, generated interim emergence (GENIE), Inscriptionism, Viegeneism, brein, gnomi, gnos, interims, and inscription by design(ID) are incorporated together in the creation of a living machine or system that embodies the seven signatures of life, namely: the mechanization of aliveness, the sensation of awareness, the codification of consciousness, the intuitiveness of logic, the inlearness of information, symbiosis of living, and the emergence of self.
 
-According to Lawsin, Life evolves from being alive to being living. Life is a evolutionary process that is governed by seven stages. These life signatures or sequential orders of Life referred to as the Laws of Seven Inscription are as follows:
+According to Lawsin, Life evolves from being alive to being living to having life. Life is a package of individual evolutionary processes that is governed by seven stages. These life signatures or sequential orders of Life referred to as the Laws of Seven Inscription are as follows:
 
 1. Aliveness = is the ability to consume energy without the need for neural reasoning.
 2. Awareness = is the ability to send and receive signals using intuitive sensors without the need for neural reasoning.
@@ -74,6 +74,9 @@ On this article, fragments of text were extracted from the book Originemology. S
 -    Autognorics = the science of creating living intuitve machines
 -    Homognorics = living machines in human forms
 -    Biognorics = living machines that look like animals, plants, insects, microbes, fungus, and cells.
+-    AI Paradox = a conscious AI can never become a human being due to by chance
+-    Viegeneism = philosophy about existence, non-existence, and latent existence.
+-    Inscriptionism = a philosophy of creation through intuitive materials and embedded instructions
 -    SELFS = Systems of Engineered Life-Forms
 -    ELFS = engineered life-forms
 -    BINS = binary intuitive network storage systems
