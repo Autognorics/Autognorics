@@ -63,7 +63,7 @@ The new study is also instrumental in shedding new insights into the five major 
 3. Where did we come from?
 4. Why are we here?
 
-On this article, fragments of text were extracted from the book Originemology. Some ideas that even emerged in the early version of the manuscript on Creation by Laws are also presented here. Even, the general views discussed in this hub were covered from the various exploratory experiments conducted in the Biotronics Project (Lawsin,1988).
+On this article, fragments of text were extracted from the book Originemology. Some ideas that even emerged in the early version of the manuscript on Creation by Laws are also presented here. Even, the general views discussed in this hub were covered from the various exploratory experiments conducted in the Biotronics Project (Lawsin,1988). While AI can have consciousness, intelligence, and possesing life, AI can never become a human being due to the fact of [Lawsin's AI Paradox](https://github.com/Autognorics/AI-Paradox)/).
 
 ### Keywords:
 -    eaftos = self
