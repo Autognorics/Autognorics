@@ -72,6 +72,8 @@ On this article, fragments of text were extracted from the book Originemology. S
 -    zois = life-forms
 -    Gnorics = self-knowledge life-forms
 -    Autognorics = the science of creating living intuitve machines
+-    Abioforms = entities that are alive and living but without life
+-    Bioforms = entities that are alive, living, and with life.
 -    Homognorics = living machines in human forms
 -    Biognorics = living machines that look like animals, plants, insects, microbes, fungus, and cells.
 -    AI Paradox = a conscious AI can never become a human being due to by chance
@@ -85,5 +87,5 @@ On this article, fragments of text were extracted from the book Originemology. S
 ![autognorics](GET.jpg)
 
 
-> "Life is chemistry and mathematics, not biology." ~ Joey Lawsin
+> "Existence is engineered, not random." ~ Joey Lawsin
 
